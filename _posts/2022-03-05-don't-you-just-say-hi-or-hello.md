@@ -1,6 +1,6 @@
 ---
 title: "Don't just say 'Hi' or 'Hello' in chat!!!"
-date: 2020-03-06
+date: 2020-03-05
 author: "Ramaraj T"
 categories: [General, Chat]
 tags: [general, chat]
