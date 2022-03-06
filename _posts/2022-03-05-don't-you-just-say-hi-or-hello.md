@@ -1,5 +1,5 @@
 ---
-title: "My first blog post"
+title: "Don't just say 'Hi' or 'Hello' in chat!!!"
 date: 2020-03-06
 author: "Ramaraj T"
 categories: [General, Chat]
