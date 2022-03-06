@@ -15,7 +15,7 @@ That means, say for example you have the property `text` for the `UILabel`, you 
 
 <br/>
 <p align="center">
-<img src="/assets/1.png" width="500">
+<img src="{{site.baseUrl}}/assets/1.png" width="500">
 </p>
 <br/>
 <br/>
