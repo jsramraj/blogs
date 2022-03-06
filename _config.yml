@@ -1,10 +1,9 @@
-title: Ramaraj's Kirukkalgal
-author: jsramraj
-email: ramaraj.tt@gmail.com.com
+title: Ramaraj's Scribbles
+author: Ramaraj T
+email: ramaraj.tt@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I write my learnings here so that I can keep this as a note to my future self
+  I write about technologies, tips and tricks in mobile development (iOS and Android) here
 
 # social links
 twitter_username: ramaraj_tt
