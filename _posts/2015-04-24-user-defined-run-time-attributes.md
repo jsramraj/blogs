@@ -79,4 +79,4 @@ For the sake of clarity, I am adding the screenshot of my `CustomLabel` class he
 <br/>
 <br/>
 
-[Here is the link for the Apple Docs in this topic.] (https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-interface_builder/Chapters/AddUserDefinedRuntimeAttributes.html)
+[Here is the link for the Apple Docs in this topic.](https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-interface_builder/Chapters/AddUserDefinedRuntimeAttributes.html)
