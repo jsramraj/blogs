@@ -1,8 +1,7 @@
 ---
-title: "Don't just say 'Hi' or 'Hello' in chat!!!"
+title: "Developing a custom keyboard extension for iOS"
 date: 2020-03-05
 author: "Ramaraj T"
-categories: [General, Chat]
 tags: [general, chat]
 ---
 Have faced a situation where you come back to your workstation and you see a message from your co-worker which says just 'Hi'? I hate messages like these. Obviously that co-worker needs some information from me. I don't know what it is. Now I have to type 'Hi' and wait for his message to know what he wants. This is lost productivity.
