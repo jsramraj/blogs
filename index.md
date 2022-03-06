@@ -2,13 +2,10 @@
 title: "Ramaraj's blogs"
 ---
 
-I'm glad you are here. I plan to talk about ...
-
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <h2><a href="/{{ post.url }}">{{ post.title }}</a></h2>
     </li>
   {% endfor %}
 </ul>
