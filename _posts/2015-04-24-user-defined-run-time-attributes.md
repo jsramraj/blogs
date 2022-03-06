@@ -15,7 +15,7 @@ That means, say for example you have the property `text` for the `UILabel`, you 
 
 <br/>
 <p align="center">
-<img src="/assets/1.png" width="500">
+<img src="{{site.baseUrl}}/assets/1.png" width="500">
 </p>
 <br/>
 <br/>
@@ -79,4 +79,4 @@ For the sake of clarity, I am adding the screenshot of my `CustomLabel` class he
 <br/>
 <br/>
 
-[Here is the link for the Apple Docs in this topic.] (https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-interface_builder/Chapters/AddUserDefinedRuntimeAttributes.html)
+[Here is the link for the Apple Docs in this topic.](https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-interface_builder/Chapters/AddUserDefinedRuntimeAttributes.html)
